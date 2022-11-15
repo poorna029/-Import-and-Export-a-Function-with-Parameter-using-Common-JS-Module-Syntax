@@ -6,4 +6,6 @@ Write a JS function that accepts a number and returns its square, in the file `e
 
 Import the function in the `importFunctionWithParameter.js` file.
 
+<!-- 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 -->
+
 <b>Use Common JS module syntax</b>.
