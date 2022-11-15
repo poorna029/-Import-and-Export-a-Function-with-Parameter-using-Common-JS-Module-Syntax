@@ -11,3 +11,5 @@ Import the function in the `importFunctionWithParameter.js` file.
 <b>Use Common JS module syntax</b>.
 
 <!-- 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 -->
+<!-- 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 -->
+<!-- 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 -->

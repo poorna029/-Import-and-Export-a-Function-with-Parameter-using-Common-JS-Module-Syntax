@@ -3,3 +3,4 @@ const fu = (a) => {
 };
 let a;
 module.exports = fu;
+console.log(" ");
